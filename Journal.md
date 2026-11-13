@@ -1,3 +1,8 @@
+---
+title: UX Journal
+permalink: /journal/
+---
+
 # Edward Rodriguez's UX Journal
 
 # Where Did The "Write a Review" Button Go?

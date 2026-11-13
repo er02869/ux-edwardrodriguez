@@ -1,5 +1,8 @@
 ---
-title: Edward Rodriguez's UX Journal
+title: Edward Rodriguez's UX Portfolio
 ---
 
-{% include_relative Journal.md %}
+# Edward Rodriguez's UX Portfolio
+
+- [About Me]({{ '/about/' | relative_url }})
+- [UX Journal]({{ '/journal/' | relative_url }})
